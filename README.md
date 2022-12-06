@@ -1,20 +1,15 @@
 # challenge-10-object-oriented-programming
 
 ## Description
+I wanted to build a node.js command line application that takes in the input and creates an HTML file. I had to test the code to ensure it passes which took many tries. It solves the problem of having to make the entire code from scatch and instead uses the template which needs to be filled in and generates the finished code.
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 ## Installation
 
 N/A
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-
+Open a new terminal and type npm start. Fill in the information for the manager, engineer, and intern. An HTML file will appear in the dist folder. Open the folder in a browser to view the webpage.
 
 ## Credits
 
